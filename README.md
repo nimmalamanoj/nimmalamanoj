@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Manoj 👋
 
-<!--
-**nimmalamanoj/nimmalamanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science Graduate  
+Aspiring Backend / DevOps Engineer  
 
-Here are some ideas to get you started:
+Skills:
+- Python
+- Flask
+- SQL
+- Git & GitHub
+- Basics of AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building real-world backend projects.
+Open to entry-level IT roles and internships.
